@@ -1,2 +1,45 @@
-# dedfd4cf-food-truck-mobile-vendor-mee
-Stop spending hours building a system before you can actually use it. Start structured system that scales with your work.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Food Truck &amp; Mobile Vendor Meeting Notes And D
+# Food Truck & Mobile Vendor Meeting Notes and Decision Log Notion Template
+
+> Notion Template for Food Truck
+
+Stop spending hours building a system before you can actually use it. Start structured system that scales with your work.
+
+Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.
+
+## What's Included
+
+- Food Truck & Mobile Vendor Meeting Notes...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | ✅ | ✅ |
+| Standard views | ✅ | ✅ |
+| Sample data | ✅ | ✅ |
+| Advanced automations | ❌ | ✅ |
+| Custom formulas | ❌ | ✅ |
+| Multiple databases | ❌ | ✅ |
+| Dashboard views | ❌ | ✅ |
+| Lifetime updates | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/5kQ5kDeTt9MwaNOdI0cZS2v)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
